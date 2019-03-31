@@ -1,3 +1,5 @@
+//10. Se considera o lista ce contine elemente care au ca informatie utila: cod produs, cantitate si pret. 
+//Scrieti si apelati functia care calculeaza total valoare pentru materialele existente in lista.
 #include <iostream>
 #include <stdio.h>
 #include <malloc.h>
