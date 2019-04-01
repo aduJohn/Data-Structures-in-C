@@ -1,4 +1,4 @@
-//5. Scrieti functia nerecursiva care efectueaza copierea unei liste, cu eliminarea elementelor ce au ca informatie utila o valoare mai mica decat un nivel specificat de parametru.
+//5. Scrieti functia nerecursiva care efectueaza copierea unei liste, cu eliminarea elementelor ce au ca informatie utila o valoare mai mare decat un nivel specificat de parametru.
 #include <iostream>
 #include <stdio.h>
 #include <malloc.h>
