@@ -22,3 +22,7 @@ SimpleLinkedList - ListaSimpla - "Exercitiul[i] ListaSimpla" i->1,10;
 9. Inversarea elementelor unei liste prin modificarea legaturilor.
 
 10. Se considera o lista ce contine elemente care au ca informatie utila: cod produs, cantitate si pret. Scrieti si apelati functia care calculeaza total valoare pentru materialele existente in lista.
+
+DoubleLinkedList - ListaDubla - "Exercitiul[i] ListaDubla" i->1..;
+
+1. Scrieţi funcţia pentru conversia unei liste duble în listă simplă.
