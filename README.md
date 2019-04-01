@@ -23,6 +23,9 @@ SimpleLinkedList - ListaSimpla - "Exercitiul[i] ListaSimpla" i->1,10;
 
 10. Se considera o lista ce contine elemente care au ca informatie utila: cod produs, cantitate si pret. Scrieti si apelati functia care calculeaza total valoare pentru materialele existente in lista.
 
-DoubleLinkedList - ListaDubla - "Exercitiul[i] ListaDubla" i->1..;
+DoubleLinkedList - ListaDubla - "Exercitiul[i] ListaDubla" i->1,2;
 
 1. Scrieţi funcţia pentru conversia unei liste duble în listă simplă.
+
+2. Sa se scrie functia pentru adunarea a doua matrice rare memorate ca liste duble.
+
