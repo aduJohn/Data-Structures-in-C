@@ -43,9 +43,9 @@ DoubleLinkedList - ListaDubla - "Exercitiul[i] ListaDubla" i->1,8;
 
 Stack and Queue - StivaCoada - "Exercitiul[i] StivaCoada" i->1,2;
 
-1.Să se scrie funcţia de inversare a unui şir folosind o stivă alocată dinamic.
+  1.Să se scrie funcţia de inversare a unui şir folosind o stivă alocată dinamic.
 
 2. Să se scrie funcţia de adăugare pentru o stivă alocată ca vector.
 
-
+3.Să se scrie funcţia de extragere a unui element dintr-o stivă alocată ca vector.
 
