@@ -41,5 +41,9 @@ DoubleLinkedList - ListaDubla - "Exercitiul[i] ListaDubla" i->1,8;
 
 8. Sa se scrie functia pentru concatenarea a n liste dublu inlantuite.
 
+Stack and Queue - StivaCozi - "Exercitiul[i] StivaCozi" i->1,1;
+
+1.Să se scrie funcţia de inversare a unui şir folosind o stivă alocată dinamic.
+
 
 
