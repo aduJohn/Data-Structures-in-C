@@ -1,4 +1,5 @@
-﻿//2. Să se scrie funcţia de adăugare pentru o stivă alocată ca vector.
+//2. Să se scrie funcţia de adăugare pentru o stivă alocată ca vector.
+//3.Să se scrie funcţia de extragere a unui element dintr-o stivă alocată ca vector.
 #include <iostream>
 #include <stdio.h>
 #include <malloc.h>
