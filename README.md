@@ -60,3 +60,5 @@ Stack and Queue - StivaCoada - "Exercitiul[i] StivaCoada" i->1,7;
 8. Se consideră un şir de numere întregi. Să se scrie funcţia care construieşte două stive (una cu numerele negative şi una cu cele pozitive) ce conţin numerele în ordinea iniţială folosind doar structuri de tip stivă.
 
 9. Scrieţi funcţia recursivă pentru ştergerea tuturor elementelor dintr-o stivă alocată dinamic.
+
+10.  Scrieţi funcţia pentru ştergerea tuturor elementelor dintr-o coadă alocată dinamic.
