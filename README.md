@@ -56,3 +56,5 @@ Stack and Queue - StivaCoada - "Exercitiul[i] StivaCoada" i->1,7;
 6. Să se scrie funcţia de concatenare a două stive alocate dinamic S1 şi S2 folosind doar operaţiile de bază (adăugare, extragere, testare stivă vidă). Rezultatul trebuie să conţină elementele din cele două stive în ordinea iniţială.
 
 7. Să se scrie funcţia de conversie a unei stive în listă simplu înlănţuită.
+
+8.Se consideră un şir de numere întregi. Să se scrie funcţia care construieşte două stive (una cu numerele negative şi una cu cele pozitive) ce conţin numerele în ordinea iniţială folosind doar structuri de tip stivă.
