@@ -57,4 +57,6 @@ Stack and Queue - StivaCoada - "Exercitiul[i] StivaCoada" i->1,7;
 
 7. Să se scrie funcţia de conversie a unei stive în listă simplu înlănţuită.
 
-8.Se consideră un şir de numere întregi. Să se scrie funcţia care construieşte două stive (una cu numerele negative şi una cu cele pozitive) ce conţin numerele în ordinea iniţială folosind doar structuri de tip stivă.
+8. Se consideră un şir de numere întregi. Să se scrie funcţia care construieşte două stive (una cu numerele negative şi una cu cele pozitive) ce conţin numerele în ordinea iniţială folosind doar structuri de tip stivă.
+
+9. Scrieţi funcţia recursivă pentru ştergerea tuturor elementelor dintr-o stivă alocată dinamic.
