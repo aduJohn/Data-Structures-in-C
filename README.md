@@ -41,14 +41,16 @@ DoubleLinkedList - ListaDubla - "Exercitiul[i] ListaDubla" i->1,8;
 
 8. Sa se scrie functia pentru concatenarea a n liste dublu inlantuite.
 
-Stack and Queue - StivaCoada - "Exercitiul[i] StivaCoada" i->1,5;
+Stack and Queue - StivaCoada - "Exercitiul[i] StivaCoada" i->1,6;
 
-1.Să se scrie funcţia de inversare a unui şir folosind o stivă alocată dinamic.
+1. Să se scrie funcţia de inversare a unui şir folosind o stivă alocată dinamic.
 
 2. Să se scrie funcţia de adăugare pentru o stivă alocată ca vector.
 
-3.Să se scrie funcţia de extragere a unui element dintr-o stivă alocată ca vector.
+3. Să se scrie funcţia de extragere a unui element dintr-o stivă alocată ca vector.
 
-4.Să se descrie modul de organizare a unei cozi alocate ca vector şi să se scrie funcţia de adăugare a unui element.
+4. Să se descrie modul de organizare a unei cozi alocate ca vector şi să se scrie funcţia de adăugare a unui element.
 
-5.Să se descrie modul de organizare a unei cozi alocate ca vector şi să se scrie funcţia de ştergere a unui element.
+5. Să se descrie modul de organizare a unei cozi alocate ca vector şi să se scrie funcţia de ştergere a unui element.
+
+6. Să se scrie funcţia de concatenare a două stive alocate dinamic S1 şi S2 folosind doar operaţiile de bază (adăugare, extragere, testare stivă vidă). Rezultatul trebuie să conţină elementele din cele două stive în ordinea iniţială.
