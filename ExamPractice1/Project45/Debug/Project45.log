@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\popescu alexandru\source\repos\project45\project45\source.cpp(47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project45.vcxproj -> C:\Users\Popescu Alexandru\source\repos\Project45\Debug\Project45.exe

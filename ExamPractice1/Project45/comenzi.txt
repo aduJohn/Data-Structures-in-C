@@ -1,0 +1,5 @@
+1111,Ionescu Vasile,12,310.5
+2222,Gigel Pastrama,5,24.7
+3333,Popa Andrei,7,200
+4444,Tiga Alessandro,10,430
+5555,Popescu Marcel,4,234.23
