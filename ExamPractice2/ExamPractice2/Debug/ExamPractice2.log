@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\popescu alexandru\source\repos\exampractice2\exampractice2\source.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\popescu alexandru\source\repos\exampractice2\exampractice2\source.cpp(48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ExamPractice2.vcxproj -> C:\Users\Popescu Alexandru\source\repos\ExamPractice2\Debug\ExamPractice2.exe
