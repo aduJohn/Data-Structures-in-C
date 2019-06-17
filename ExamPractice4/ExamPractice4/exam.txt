@@ -1,0 +1,16 @@
+23,Poiana Vesela,17,4,2018,1,245.3
+23,Poiana Vesela,17,4,2018,2,200
+23,Poiana Trista,17,4,2018,7,450
+3,Moghioros,17,6,2017,1,342.3
+23,Poiana Vesela,17,4,2018,3,175.4
+23,Poiana Vesela,17,4,2018,4,231
+43,Muntele Aprig,4,5,2018,1,400
+43,Muntele Aprig,4,5,2018,2,374.3
+23,Poiana Vesela,17,4,2018,5,145.2
+43,Muntele Aprig,4,5,2018,3,200
+3,Moghioros,17,6,2017,2,104.3
+23,Poiana Vesela,17,4,2018,6,57.9
+43,Muntele Aprig,4,5,2018,3,450.3
+43,Muntele Aprig,4,5,2018,4,231.5
+3,Moghioros,17,6,2017,3,103.6
+3,Moghioros,17,6,2017,4,75.6
