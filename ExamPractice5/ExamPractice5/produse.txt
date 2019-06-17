@@ -1,0 +1,11 @@
+1080,20,Paine,KG
+1080,75,Rosii,kg
+1080,5,Oua,Bucati
+1050,30,Chiftele,Bucati
+1090,13,Banane,KG
+1090,2,Paine,KG
+1090,7,Covrigi,Bucati
+1090,8,Banane,KG
+1090,54,Carne de porc,KG
+1060,4,Paine,KG
+1060,5,Vin,Litrii
