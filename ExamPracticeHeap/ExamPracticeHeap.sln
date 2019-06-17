@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExamPracticeHeap", "ExamPracticeHeap\ExamPracticeHeap.vcxproj", "{00E45325-2A23-4043-8A9C-CDF9279275A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00E45325-2A23-4043-8A9C-CDF9279275A8}.Debug|x64.ActiveCfg = Debug|x64
+		{00E45325-2A23-4043-8A9C-CDF9279275A8}.Debug|x64.Build.0 = Debug|x64
+		{00E45325-2A23-4043-8A9C-CDF9279275A8}.Debug|x86.ActiveCfg = Debug|Win32
+		{00E45325-2A23-4043-8A9C-CDF9279275A8}.Debug|x86.Build.0 = Debug|Win32
+		{00E45325-2A23-4043-8A9C-CDF9279275A8}.Release|x64.ActiveCfg = Release|x64
+		{00E45325-2A23-4043-8A9C-CDF9279275A8}.Release|x64.Build.0 = Release|x64
+		{00E45325-2A23-4043-8A9C-CDF9279275A8}.Release|x86.ActiveCfg = Release|Win32
+		{00E45325-2A23-4043-8A9C-CDF9279275A8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {299A249F-BF6E-42E0-9E36-BD1798EE4E89}
+	EndGlobalSection
+EndGlobal

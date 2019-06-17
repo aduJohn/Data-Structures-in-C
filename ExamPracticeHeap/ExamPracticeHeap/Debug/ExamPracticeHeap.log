@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\popescu alexandru\source\repos\exampracticeheap\exampracticeheap\source.cpp(82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\popescu alexandru\source\repos\exampracticeheap\exampracticeheap\source.cpp(108): warning C4305: '=': truncation from 'double' to 'float'
+  ExamPracticeHeap.vcxproj -> C:\Users\Popescu Alexandru\source\repos\ExamPracticeHeap\Debug\ExamPracticeHeap.exe
